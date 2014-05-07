@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-	testArraySlice()
+	//testArraySlice()
 }
 func testInt(){
 	//Declares a,b and c as int
